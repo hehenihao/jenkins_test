@@ -1,0 +1,3 @@
+*.o
+TEST.si4project
+TEST.si4project/*.*
